@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\bin\Debug\net10.0-windows\1stVBact.exe
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\bin\Debug\net10.0-windows\1stVBact.deps.json
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\bin\Debug\net10.0-windows\1stVBact.runtimeconfig.json
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\bin\Debug\net10.0-windows\1stVBact.dll
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\bin\Debug\net10.0-windows\1stVBact.pdb
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\_1stVBact.Form1.resources
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.vbproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.dll
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\refint\1stVBact.dll
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.pdb
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\1stVBact.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\ref\1stVBact.dll
+C:\Users\Administrator\source\repos\1stVBact\1stVBact\obj\Debug\net10.0-windows\_1stVBact.Resources.resources
